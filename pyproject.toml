@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "dod"
+version = "0.1.0"
+description = "This project is to extract character's information from Dancing of Dragon"
+authors = ["ldquan1996 <luongdoanhquan1996@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.6.0"
+pandas = "^1.5.2"
+webdriver-manager = "^3.8.5"
+jupyterlab = "^3.5.0"
+matplotlib = "^3.6.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.17.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
