@@ -5,3 +5,5 @@ There are some framework that can be used:
 * Selenium: Can apply to scrap dynamic sites
 * Scrapy: fast, powerful and handle large data
 * Beautifulsoup: can apply to small project, is beginner-friendly but slow and require few more dependencies
+
+<img src='heroes_com.png' width='300' height='300'
